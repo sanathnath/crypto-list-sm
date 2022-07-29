@@ -36,32 +36,30 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+###Crypto listing website
+  Crypto listing website by using react. This website have two pages, one page is show all crypto currency details, another page is for showing price change graph of perticular coin.
+  
+##Components
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  #Banner
+    Banner component showing advertisement quotes or banner image.
+    
+  #CoinTab
+    Coin tab showing name, full name, current price and price change of the crypto currency. This component are using in the loop inside home page for     showing all single crypto currency details. when clicking on this component navigate user to coin page.
+    
+  #Header
+    Header component placed at the top of the website. it have website name at the center, website name is a clickable link that navigate user to home     page.
+    
+ 
+ ##Pages
+  
+  #Homepage
+    Home page showing header component at the top, after that banner component under the banner component ther is crypto currencies listing with search     features and pagination feature. when clicking a coin it navigate to coin page that shows price change graph of crypto.
+    
+ 
+##Design
+  -very simple and calm design language
+  -used Popins font for simple look
+  -only two colors used - black and purple
+  -purple color used for website logo or name other all texts are black in color
+  
