@@ -38,7 +38,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 # Crypto listing website
 
-  Crypto listing website by using react. This website have two pages, one page is show all crypto currency details, another page is for showing price change graph of perticular coin.
+  Crypto listing website by using react. This website have two pages, one page is show all crypto currency details, another page is for showing price   change graph of perticular coin.
   
 ## Components
 
@@ -48,7 +48,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
     
   ### CoinTab
   
-    Coin tab showing name, full name, current price and price change of the crypto currency. This component are using in the loop inside home page for     showing all single crypto currency details. when clicking on this component navigate user to coin page.
+  Coin tab showing name, full name, current price and price change of the crypto currency. This component are using in the loop inside home page for       showing all single crypto currency details. when clicking on this component navigate user to coin page.
     
   ### Header
   
@@ -59,13 +59,13 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
   
   ### Homepage
   
-    Home page showing header component at the top, after that banner component under the banner component ther is crypto currencies listing with search     features and pagination feature. when clicking a coin it navigate to coin page that shows price change graph of crypto.
+  Home page showing header component at the top, after that banner component under the banner component ther is crypto currencies listing with search       features and pagination feature. when clicking a coin it navigate to coin page that shows price change graph of crypto.
     
  
 # Design
 
-  -very simple and calm design language
-  -used Popins font for simple look
-  -only two colors used - black and purple
-  -purple color used for website logo or name other all texts are black in color
+  -very simple and calm design language.\
+  -used Popins font for simple look.\
+  -only two colors used - black and purple.\
+  -purple color used for website logo or name other all texts are black in color.\
   
