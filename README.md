@@ -7,7 +7,7 @@
 
   ### Banner
   
-    Banner component showing advertisement quotes or banner image.
+  Banner component showing advertisement quotes or banner image.
     
   ### CoinTab
   
