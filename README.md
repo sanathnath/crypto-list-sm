@@ -61,11 +61,15 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
   
   Home page showing header component at the top, after that banner component under the banner component ther is crypto currencies listing with search       features and pagination feature. when clicking a coin it navigate to coin page that shows price change graph of crypto.
     
- 
+  ###Coinpage
+  
+  Coin page is for showing the price change graph of the currency. x-axis of the graph labeled time and y-axis labeles price.
+  
+  
 # Design
 
   -very simple and calm design language.\
   -used Popins font for simple look.\
   -only two colors used - black and purple.\
-  -purple color used for website logo or name other all texts are black in color.\
+  -purple color used for website logo or name other all texts are black in color.
   
